@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+#too lazy to update shit by typing a lot
+sudo dnf update -y && sudo dnf upgrade -y
